@@ -1,1 +1,1 @@
-A series of algorithms in python.
+A series of algorithms in python and javascript.
