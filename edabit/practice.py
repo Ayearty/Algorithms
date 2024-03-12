@@ -146,6 +146,14 @@
 
 #25
 #Luke, I am your...
-def relations(name):
-    if name == "Darth Vader":
-        return ("Luke, I am your father.")
+#Desc: Provide the correct relation to Luke Skywalker when the appropriate string is given.
+# def relations(name):
+#     if name == "Darth Vader":
+#         return ("Luke, I am your father."),
+#     if name == "Leia":
+#         return ("Luke, I am your sister."),
+#     if name == "Han":
+#         return ("Luke, I am your brother in law."),
+#     if name == "R2D2":
+#         return ("*Beep**Boop**Beepboopbeep* (Read: Luke, I am your droid.)")
+
