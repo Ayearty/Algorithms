@@ -156,4 +156,13 @@
 #         return ("Luke, I am your brother in law."),
 #     if name == "R2D2":
 #         return ("*Beep**Boop**Beepboopbeep* (Read: Luke, I am your droid.)")
+#
+#26
+#Sum of Resistance in Series Circuits
+#Desc: Write a function that returns the sum of an array.
+# def sum_of_resistance(arr):
+#     x=0
+#     for i in arr:
+#         x = i + x
+#     print (x)
 
