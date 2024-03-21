@@ -17,7 +17,7 @@
 # def tri_area(base, height):
 #     return ((base/2)*height)
 # print(tri_area(6,2))
-
+#
 #5
 # def cubes(x):
 #     return (x**3)
