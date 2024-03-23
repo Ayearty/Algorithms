@@ -27,7 +27,7 @@
 # def hours_to_seconds(hours):
 #     return(hours*60*60)
 # print(hours_to_seconds(1))
-
+#
 #7
 # Create a function that finds the 
 # maximum range of a triangle's third
